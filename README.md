@@ -155,7 +155,8 @@ PUTCHAR_PROTOTYPE
 
 ## Circuit board :
 
-![WhatsApp Image 2025-04-09 at 12 54 57_1557c63e](https://github.com/user-attachments/assets/911666b3-1eb8-4c01-b2c6-e9ec612d4e76) 
+![EX04](https://github.com/user-attachments/assets/06dc55b4-ffd4-4577-b6d5-0d2da12f0a13)
+
  
  
 ## Result :
